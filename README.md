@@ -14,3 +14,10 @@
 
 ![](/Screenshot_6.png)
 ![](/Screenshot_1.png)
+
+# First step is to copy link fron mui site
+
+![](/Screenshot_2.png)
+
+# The next step is to install mui on vs code terminal 
+![](/Screenshot_3.png)
