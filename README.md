@@ -21,3 +21,7 @@
 
 # The next step is to install mui on vs code terminal 
 ![](/Screenshot_3.png)
+
+## Some example with mui
+ ![](/Screenshot_4.png)
+ ![](/Screenshot_5.png)
